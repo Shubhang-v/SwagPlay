@@ -1,0 +1,2 @@
+execute as @a if score @s initiate_scene matches 0 at @s run function swagplay:player_path/summon_player_path
+execute as @a if score @s initiate_play matches 0 at @s run function swagplay:player_path/tp

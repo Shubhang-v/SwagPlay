@@ -1,0 +1,4 @@
+function swagplay:player_path/give_triggers/give_initiate_trigger
+function swagplay:player_path/give_triggers/give_off_trigger
+function swagplay:player_path/give_triggers/give_play_trigger
+function swagplay:player_path/give_triggers/give_play_off_trigger
